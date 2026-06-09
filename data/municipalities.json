@@ -1,5 +1,5 @@
 {
-  "_hinweis": "synthetisch / vereinfacht, Stand 2026-06 — keine offizielle AI:AT-Position",
+  "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position",
   "municipalities": [
     {
       "gemeinde": "Wien (1., Innere Stadt)",
@@ -9,7 +9,7 @@
       "poi_dichte": 9.2,
       "mietindex_eur_m2": 28.5,
       "oev_score": 9.8,
-      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06 — keine offizielle AI:AT-Position"
+      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position"
     },
     {
       "gemeinde": "Wien (7., Neubau)",
@@ -19,7 +19,7 @@
       "poi_dichte": 8.7,
       "mietindex_eur_m2": 22.0,
       "oev_score": 9.5,
-      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06 — keine offizielle AI:AT-Position"
+      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position"
     },
     {
       "gemeinde": "Wien (10., Favoriten)",
@@ -29,7 +29,7 @@
       "poi_dichte": 6.4,
       "mietindex_eur_m2": 14.8,
       "oev_score": 8.9,
-      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06 — keine offizielle AI:AT-Position"
+      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position"
     },
     {
       "gemeinde": "Graz (Innere Stadt)",
@@ -39,7 +39,7 @@
       "poi_dichte": 7.4,
       "mietindex_eur_m2": 14.5,
       "oev_score": 8.2,
-      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06 — keine offizielle AI:AT-Position"
+      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position"
     },
     {
       "gemeinde": "Graz (Lend)",
@@ -49,7 +49,7 @@
       "poi_dichte": 6.6,
       "mietindex_eur_m2": 12.1,
       "oev_score": 7.8,
-      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06 — keine offizielle AI:AT-Position"
+      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position"
     },
     {
       "gemeinde": "Leoben (Zentrum)",
@@ -59,7 +59,7 @@
       "poi_dichte": 4.3,
       "mietindex_eur_m2": 8.9,
       "oev_score": 5.4,
-      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06 — keine offizielle AI:AT-Position"
+      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position"
     },
     {
       "gemeinde": "Linz (Stadtmitte)",
@@ -69,7 +69,7 @@
       "poi_dichte": 6.8,
       "mietindex_eur_m2": 13.2,
       "oev_score": 7.9,
-      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06 — keine offizielle AI:AT-Position"
+      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position"
     },
     {
       "gemeinde": "Linz (Urfahr)",
@@ -79,7 +79,7 @@
       "poi_dichte": 5.5,
       "mietindex_eur_m2": 11.4,
       "oev_score": 7.3,
-      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06 — keine offizielle AI:AT-Position"
+      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position"
     },
     {
       "gemeinde": "Wels (Innenstadt)",
@@ -89,7 +89,7 @@
       "poi_dichte": 5.1,
       "mietindex_eur_m2": 10.2,
       "oev_score": 6.1,
-      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06 — keine offizielle AI:AT-Position"
+      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position"
     },
     {
       "gemeinde": "Innsbruck (Zentrum)",
@@ -99,7 +99,7 @@
       "poi_dichte": 7.1,
       "mietindex_eur_m2": 17.8,
       "oev_score": 8.6,
-      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06 — keine offizielle AI:AT-Position"
+      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position"
     },
     {
       "gemeinde": "Innsbruck (Wilten)",
@@ -109,7 +109,7 @@
       "poi_dichte": 6.0,
       "mietindex_eur_m2": 15.6,
       "oev_score": 8.1,
-      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06 — keine offizielle AI:AT-Position"
+      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position"
     },
     {
       "gemeinde": "Salzburg (Altstadt)",
@@ -119,7 +119,7 @@
       "poi_dichte": 8.1,
       "mietindex_eur_m2": 20.5,
       "oev_score": 8.0,
-      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06 — keine offizielle AI:AT-Position"
+      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position"
     },
     {
       "gemeinde": "Salzburg (Lehen)",
@@ -129,7 +129,7 @@
       "poi_dichte": 5.7,
       "mietindex_eur_m2": 14.9,
       "oev_score": 7.4,
-      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06 — keine offizielle AI:AT-Position"
+      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position"
     },
     {
       "gemeinde": "Klagenfurt (Innenstadt)",
@@ -139,7 +139,7 @@
       "poi_dichte": 5.9,
       "mietindex_eur_m2": 11.8,
       "oev_score": 6.5,
-      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06 — keine offizielle AI:AT-Position"
+      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position"
     },
     {
       "gemeinde": "Villach (Zentrum)",
@@ -149,7 +149,7 @@
       "poi_dichte": 5.0,
       "mietindex_eur_m2": 10.4,
       "oev_score": 5.9,
-      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06 — keine offizielle AI:AT-Position"
+      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position"
     },
     {
       "gemeinde": "St. Pölten (Zentrum)",
@@ -159,7 +159,7 @@
       "poi_dichte": 5.6,
       "mietindex_eur_m2": 11.0,
       "oev_score": 7.0,
-      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06 — keine offizielle AI:AT-Position"
+      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position"
     },
     {
       "gemeinde": "Wiener Neustadt (Zentrum)",
@@ -169,7 +169,7 @@
       "poi_dichte": 5.3,
       "mietindex_eur_m2": 10.7,
       "oev_score": 6.8,
-      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06 — keine offizielle AI:AT-Position"
+      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position"
     },
     {
       "gemeinde": "Eisenstadt (Zentrum)",
@@ -179,7 +179,7 @@
       "poi_dichte": 4.4,
       "mietindex_eur_m2": 9.6,
       "oev_score": 5.7,
-      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06 — keine offizielle AI:AT-Position"
+      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position"
     },
     {
       "gemeinde": "Bregenz (Zentrum)",
@@ -189,7 +189,7 @@
       "poi_dichte": 5.2,
       "mietindex_eur_m2": 16.9,
       "oev_score": 7.2,
-      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06 — keine offizielle AI:AT-Position"
+      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position"
     },
     {
       "gemeinde": "Dornbirn (Zentrum)",
@@ -199,7 +199,7 @@
       "poi_dichte": 5.8,
       "mietindex_eur_m2": 15.3,
       "oev_score": 6.9,
-      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06 — keine offizielle AI:AT-Position"
+      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position"
     }
   ]
 }
